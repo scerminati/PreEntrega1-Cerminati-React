@@ -5,7 +5,7 @@ import "./NavBar.css";
 const NavBar = () => {
   return (
     <header>
-      <img src="../public/images/banner.png" className="banner" alt="" />
+      <img src="../images/banner.png" className="banner" alt="" />
       <div className="navBar">
         <div className="titulos">
           <h1>SoGames</h1>
